@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">utsppbrevisi</string>
+    
+    <string-array name="middle_programming">
+        <item>hotel pertama</item>
+        <item>hotel kedua</item>
+        <item>hotel ketiga</item>
+        <item>hotel keempat</item>
+        <item>hotel kelima</item>
+        <item>hotel keenam</item>
+        <item>hotel ketujuh</item>
+        <item>hotel kedelapan</item>
+        <item>hotel kesembilan</item>
+        <item>hotel kesepuluh</item>
+    </string-array>
+    
+    <string-array name="description">
+        <item>disini deskripsi hotel tersebut</item>
+        <item>disini deskripsi hotel tersebut</item>
+        <item>disini deskripsi hotel tersebut</item>
+        <item>disini deskripsi hotel tersebut</item>
+        <item>disini deskripsi hotel tersebut</item>
+        <item>disini deskripsi hotel tersebut</item>
+        <item>disini deskripsi hotel tersebut</item>
+        <item>disini deskripsi hotel tersebut</item>
+        <item>disini deskripsi hotel tersebut</item>
+        <item>disini deskripsi hotel tersebut</item>
+    </string-array>
+</resources>
